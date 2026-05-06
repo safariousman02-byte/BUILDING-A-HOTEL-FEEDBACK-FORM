@@ -1,43 +1,49 @@
 # BUILD A HOTEL FEEDBACK FORM
 
-## MAKING USE OF 
+
+
+## MAKING USE OF THE FOLLOWING TAGS ;
 
 ***
- # FORM
+ ## FORM :
   * To enter a collection of fieldsets
 ***
 
 ***
- # FIELDSET
+ ## FIELDSET :
   * To enter a collection of inputs
 ***
 
 ***
- # LEGEND
+ ## LEGEND :
   * Enter the fieldset title
 ***
 
 ***
- # INPUT
+ ## INPUT :
   * Creante an input
 ***
 
 ***
- # LABEL 
+ ## LABEL :
   * Enter a text beside the input
 ***
 
-# PLACEHOLDER :
+## PLACEHOLDER :
  * Enter a text in the input
 
 ***
 
-# FOR : 
+## FOR : 
  * Link the value of the input and the label
 
 ***
 
-# Type : 
+## Type : 
  * To precise the type of input
  *  Ex : chechbox, number, text etc ..
- 
+
+*** 
+
+## CKECKED : 
+ * To make the input feel as it has been cheched
