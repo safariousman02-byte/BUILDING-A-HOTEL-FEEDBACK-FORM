@@ -47,3 +47,6 @@
 
 ## CKECKED : 
  * To make the input feel as it has been cheched
+
+## TEXTAREA : 
+ * To create an area to insert a text
