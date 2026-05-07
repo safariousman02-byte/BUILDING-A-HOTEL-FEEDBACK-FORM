@@ -57,4 +57,22 @@
  * Specifies the length of the row.
 
 ## name : 
-* Name specifies the name of the textarea
+ * Name specifies the name of the textarea
+
+## OPTION : 
+ * Used to enumerate the elements of the selection list
+
+## SELECT :
+ * Used to create a selection list 
+
+### THE CODESPACE
+
+***
+ ![ALT](./ASSETS/CODESPACE.png)
+***
+
+### THE RESULT 
+
+***
+ ![ALT](./ASSETS/RESULT.png)
+***
