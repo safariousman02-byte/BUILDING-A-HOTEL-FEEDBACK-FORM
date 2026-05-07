@@ -50,3 +50,6 @@
 
 ## TEXTAREA : 
  * To create an area to insert a text
+## Textarea contains 
+ * COLS, it specifies length of the column
+ 
