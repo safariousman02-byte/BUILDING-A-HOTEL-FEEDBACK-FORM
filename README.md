@@ -52,4 +52,9 @@
  * To create an area to insert a text
 ## Textarea contains 
  * COLS, it specifies length of the column
- 
+
+## ROWS : 
+ * Specifies the length of the row.
+
+## name : 
+* Name specifies the name of the textarea
