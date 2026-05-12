@@ -64,6 +64,7 @@
 
 ## SELECT :
  * Used to create a selection list 
+ * its like a dropdownlist
 
 ### THE CODESPACE
 
