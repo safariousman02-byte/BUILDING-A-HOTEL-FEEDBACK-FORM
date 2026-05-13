@@ -47,6 +47,7 @@
 
 ## CKECKED : 
  * To make the input feel as it has been cheched
+ * To make the user know that the field has been seen.
 
 ## TEXTAREA : 
  * To create an area to insert a text
